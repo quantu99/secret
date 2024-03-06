@@ -35,13 +35,13 @@ export default function Home() {
             />
             <div className={styles.textContainer}>
                 <h1 className={styles.dear}>For Daisie</h1>
-                <h1 className={styles.content}>Happy 8/3- Women's day</h1>
+                <h1 className={styles.content}>Happy 8/3- Women&apos;s day</h1>
                 <h2 className={styles.end}>With all of my sincerity</h2>
             </div>
             <Link href="/main" className={styles.button}>
                 <BsFlower1 size={40} className={styles.icon} />
                 <div className={styles.explain}>
-                    <p className={styles.explainContent}>Let's see what we have...</p>
+                    <p className={styles.explainContent}>Let&apos;s see what we have...</p>
                 </div>
             </Link>
         </div>
