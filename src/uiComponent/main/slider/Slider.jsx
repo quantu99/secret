@@ -22,7 +22,6 @@ const Slider = () => {
             <div className={styles.slide} style={{ transform: `translateX(${-currentSlide * 100}%)` }}>
                 <div className={styles.slideWrapper}>
                     <div className={styles.titleContainer}>
-                        {' '}
                         <h1 className={styles.title}>
                             A message to all women: Who are they? What can they do? What do they deserve?
                         </h1>
@@ -63,7 +62,6 @@ const Slider = () => {
                 <div className={styles.slideWrapper}>
                     <div className={styles.titleContainer}>
                         <h1 className={styles.title}>
-                            {' '}
                             These inspirational women speak on being grateful for who we are today, the obstacles we
                             have overcome, letting go of preconceived ideas for how we should be, and owning our truth.
                             These powerful women agree that this is how we will become the most authentic versions of
@@ -94,7 +92,7 @@ const Slider = () => {
                             which rival that of men. Some women have even changed the course of history. Women remain
                             versatile, at times, they are like gentle cats in need of nurturing and support, while at
                             others, they transform into powerful tigers capable of facing any challenge in life. They
-                            deserve an abundance of love and empathy. Happy International Women's Day.
+                            deserve an abundance of love and empathy. Happy International Women&apos;s Day.
                         </h1>
                     </div>
                 </div>

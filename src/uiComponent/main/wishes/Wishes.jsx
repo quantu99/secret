@@ -58,8 +58,8 @@ const Wishes = () => {
                     </div>
                     <span className={styles.text}>
                         &apos;&apos;I hope you stay healthy, and may you always strive to improve your lifestyle every
-                        day. You're quite stubborn, and often forgetful as well. But it's okay, I'm here by your side to
-                        remind you every day.&apos;&apos;
+                        day. You&apos;re quite stubborn, and often forgetful as well. But it&apos;s okay, I&apos;m here
+                        by your side to remind you every day.&apos;&apos;
                     </span>
                 </div>
             </section>
