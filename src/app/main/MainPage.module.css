@@ -1,0 +1,12 @@
+.mainPage {
+    background: linear-gradient(147deg, #44000b 55%, #e0455f);
+}
+.section {
+    /* min-height: 100vh; */
+    height: 100vh;
+    scroll-snap-align: center;
+}
+.section3 {
+    height: calc(100vh + 100px);
+    scroll-snap-align: center;
+}
