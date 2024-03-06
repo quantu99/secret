@@ -17,7 +17,14 @@ const Footer = () => {
             <div className={styles.imageContainer}>
                 <div className={styles.imageWrapper}>
                     <div className={styles.cover}>
-                        <Image className={styles.letter} src="/letter2.jpg" width={500} height={400} loading="lazy" />
+                        <Image
+                            alt="ava"
+                            className={styles.letter}
+                            src="/letter2.jpg"
+                            width={500}
+                            height={400}
+                            loading="lazy"
+                        />
                     </div>
                     <div className={styles.content}>
                         <div className={styles.detallTitleContainer}>

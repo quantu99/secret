@@ -29,7 +29,14 @@ const Introduce = () => {
                     <Image className={styles.scroll} src="/scroll.png" alt="scroll" width={50} height={50} />
                 </div>
 
-                <Image src="/greeting.gif" unoptimized width={380} height={350} className={styles.image} />
+                <Image
+                    alt="introduce"
+                    src="/greeting.gif"
+                    unoptimized
+                    width={380}
+                    height={350}
+                    className={styles.image}
+                />
             </div>
         </div>
     );
